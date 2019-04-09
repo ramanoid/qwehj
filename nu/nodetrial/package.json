@@ -1,0 +1,14 @@
+{
+  "name": "nodetrial",
+  "version": "1.0.0",
+  "description": "trial webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ramanoid",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.1.1"
+  }
+}
